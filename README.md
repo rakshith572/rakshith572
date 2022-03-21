@@ -2,7 +2,7 @@
 
 
 
-   <img align="right" src="https://tenor.com/view/coding-gif-24297652"/>
+   <img align="right" src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif"/>
 
 
 I'm a pre-final Student of **Information Science & Engineering [@JIT](https://www.jyothyit.ac.in/)** in Bangalore. I love to solve problems and have deep interest in **Competitive Programming**. I'm a passionate coder who desires to learn and explore technical, analytical and problem-solving skills and has an interest in solving various algorithmic and mathematical related problems.
