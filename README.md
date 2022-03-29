@@ -9,7 +9,7 @@ I'm a pre-final Student of **Information Science & Engineering [@JIT](https://ww
 
 ### Talking about Personal Stuffs:
 
-- 🚀 &nbsp; I’m currently acquiring more knowledge on Full Stack Development.
+- 🚀 &nbsp; I’m currently acquiring more knowledge on MERN Stack Development.
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/rakshith572).
 - 💬 &nbsp; Ask me about anything [here](https://github.com/rakshith572/rakshith572/issues)! _anything really! even if I have 0 idea about it, will learn a thing or two!_
 - 👾 &nbsp; Fun fact: The actual world we are leaving is DREAM.
